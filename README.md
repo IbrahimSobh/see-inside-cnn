@@ -24,8 +24,7 @@ This is an interesting approach that tells us what kind of input excites a neuro
 
 The basic idea to trying to get an image that produce almost the same activations of another image. In other words, both images are almost the same in the eyes of the neural network.
 
-![owrtc](images/owrtc.png)
-![owrtc01](images/owrtc01.png)
+![owrtc01](images/owrtc03.png)
 
 ## 04 deep dream
 
