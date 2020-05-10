@@ -1,5 +1,4 @@
-# see-inside-cnn
-Going deeper into CNNs through visualization methods: 
+# Going deeper into CNNs through visualization methods: 
 - Saliency maps 
 - Optimize random image wrt neuron
 - Optimize random image wrt activations content 
