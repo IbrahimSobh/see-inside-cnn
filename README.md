@@ -40,5 +40,6 @@ In a classification scenario, if we design the network architecture so that the 
 
 After this final convolution layer, Global Average Pooling is applied across number of convolution features equal to number of classes, which results in a vector of values that we can then use to classify the input image.
 
-![gap](images/gap01.png)
+![gap 02](images/gap02.png)
+![gap 03](images/gap03.png)
 
