@@ -47,7 +47,7 @@ After this final convolution layer, Global Average Pooling is applied across num
 ---
 ## 06 Grad-CAM visualization
 
-**Class Activation Map (CAM)** visualization techniques produce heatmaps of 2D class activation over input images, showing how important each location is for  considered class considered. 
+**Class Activation Map (CAM)** visualization techniques produce heatmaps of 2D class activation over input images, showing how important each location is for the considered class. 
 In the paper [Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391), the visualization is conducted by taking the output feature map of a convolution layer (given an input image), and then weighing every channel (feature map) by the gradient of the output class wrt the feature map.
 
 ![gap 02](images/GCAM3.png)
